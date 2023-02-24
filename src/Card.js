@@ -12,6 +12,7 @@ class Card extends Component{
                     <main>
                         <ul>
                             <li><span>Birthday</span>Apr 10, 1989</li>
+                            <li><span>Company</span>Veritas</li>
                             <li><span>Address</span>11356 26th ave</li>
                             <li><span>Phone</span>7818279344</li>
                             
